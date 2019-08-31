@@ -1,0 +1,14 @@
+
+//Komenda (prefix)Ban
+$nomention
+$ban
+$allowMention
+$textSplit[$message; ]
+$title[Nowy Ban]
+$color[ff354]
+$description[$username $splittedText[<]
+Action: Ban
+Reason: $splittedText[<2]
+$onlyPerms[ban;Niemasz wystarczającej permisji żeby dać 'Ban']
+Action by: <$username>]
+ 
