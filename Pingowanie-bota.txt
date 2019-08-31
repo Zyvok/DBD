@@ -1,0 +1,12 @@
+$deletecommand
+$title[Zapingowaleś mnie?!]
+$color[#ffffff]
+$nomention
+$footer[Wygenerowane dla $username]
+$footerIcon[$authorAvatar]
+$description[Mój prefix to ?
+?pomoc po więcej]
+
+
+/Komenda <@ID BOTA>
+Te <> też piszemy 
