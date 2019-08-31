@@ -1,0 +1,8 @@
+komenda: https://
+
+$nomention
+$deletecommand
+$useChannel[ID kanału z logami]
+$title[REKLAMA]
+$footer[Reklame wysłał: $username]
+$description[Zakaz reklamownia się]
